@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: sushantkapare1717/packages:latest
+      - image: mnforba/packages:latest
         name: myapp
         resources: {}
 status: {}
